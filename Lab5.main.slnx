@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="main.Console/Lab5.Console.main.csproj" Id="4c96fc21-4652-4ecd-b86e-c5fbc178c926" />
+  <Project Path="task1/task1.csproj" Id="22d2130e-1260-4666-9317-651c3865aadf" />
+  <Project Path="task2/task2.csproj" Id="5cc87316-3573-469f-9e11-837e0ab073df" />
+  <Project Path="task3/task3.csproj" Id="eb28ebc7-ff4e-48e0-a53e-6365a072d776" />
+  <Project Path="WinForm/WinForm.csproj" Id="4f827985-5904-4f0c-be4c-e3d9a06b6ed1" />
+</Solution>
